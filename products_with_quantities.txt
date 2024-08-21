@@ -1,0 +1,350 @@
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 10
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 12
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 12
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 12
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 13
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 13
+Fabuloso, Cantidad: 12
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 13
+Fabuloso, Cantidad: 12
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 12
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 15
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 15
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 15
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 13
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 15
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 15
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 13
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 0
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 15
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 13
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 0
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 11
+
+-----------------------------------------------------
+Choclitos, Cantidad: 15
+Chocorramo, Cantidad: 15
+DTD, Cantidad: 15
+Gala, Cantidad: 15
+Pollo, Cantidad: 15
+Tostacos, Cantidad: 15
+Bridge, Cantidad: 15
+Cocosette, Cantidad: 15
+Festival, Cantidad: 15
+Glacitas, Cantidad: 15
+Noel, Cantidad: 15
+Wafer, Cantidad: 15
+
+-----------------------------------------------------
+Choclitos, Cantidad: 5
+Chocorramo, Cantidad: 15
+DTD, Cantidad: 15
+Gala, Cantidad: 15
+Pollo, Cantidad: 15
+Tostacos, Cantidad: 15
+Bridge, Cantidad: 15
+Cocosette, Cantidad: 15
+Festival, Cantidad: 15
+Glacitas, Cantidad: 15
+Noel, Cantidad: 15
+Wafer, Cantidad: 15
+
+-----------------------------------------------------
+Aguila, Cantidad: 15
+Budweiser, Cantidad: 15
+Club, Cantidad: 15
+Coronita, Cantidad: 15
+Lider, Cantidad: 15
+Onix, Cantidad: 15
+Andina, Cantidad: 15
+Club, Cantidad: 15
+Costeña, Cantidad: 15
+Heineken, Cantidad: 15
+Poker, Cantidad: 15
+Tres Cordilleras, Cantidad: 15
+
+-----------------------------------------------------
+Aguila, Cantidad: 15
+Budweiser, Cantidad: 15
+Club, Cantidad: 12
+Coronita, Cantidad: 15
+Lider, Cantidad: 15
+Onix, Cantidad: 15
+Andina, Cantidad: 15
+Club, Cantidad: 15
+Costeña, Cantidad: 15
+Heineken, Cantidad: 15
+Poker, Cantidad: 15
+Tres Cordilleras, Cantidad: 15
+
+-----------------------------------------------------
+Choclitos, Cantidad: 15
+Chocorramo, Cantidad: 15
+DTD, Cantidad: 15
+Gala, Cantidad: 15
+Pollo, Cantidad: 15
+Tostacos, Cantidad: 15
+Bridge, Cantidad: 15
+Cocosette, Cantidad: 15
+Festival, Cantidad: 15
+Glacitas, Cantidad: 15
+Noel, Cantidad: 15
+Wafer, Cantidad: 15
+
+-----------------------------------------------------
+Choclitos, Cantidad: 15
+Chocorramo, Cantidad: 15
+DTD, Cantidad: 15
+Gala, Cantidad: 15
+Pollo, Cantidad: 15
+Tostacos, Cantidad: 14
+Bridge, Cantidad: 15
+Cocosette, Cantidad: 15
+Festival, Cantidad: 15
+Glacitas, Cantidad: 15
+Noel, Cantidad: 15
+Wafer, Cantidad: 15
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 15
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 15
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 15
+
+-----------------------------------------------------
+Coca-Cola, Cantidad: 14
+Manzana, Cantidad: 15
+Naranja, Cantidad: 15
+Pepsi, Cantidad: 15
+Quatro, Cantidad: 15
+Sprite, Cantidad: 15
+Hit Botella, Cantidad: 15
+Hit caja, Cantidad: 15
+Del Valle, Cantidad: 15
+Hit lulo, Cantidad: 15
+Tampico, Cantidad: 15
+Tea, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 11
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Arroz, Cantidad: 15
+Atun, Cantidad: 15
+Lentejas, Cantidad: 15
+Pasta, Cantidad: 15
+Salchicha, Cantidad: 15
+Salsa, Cantidad: 15
+BBQ, Cantidad: 15
+Mayonesa, Cantidad: 15
+Negra, Cantidad: 15
+Teriyaki, Cantidad: 15
+Tomate, Cantidad: 15
+Rosada, Cantidad: 15
+
+-----------------------------------------------------
+Arroz, Cantidad: 15
+Atun, Cantidad: 15
+Lentejas, Cantidad: 15
+Pasta, Cantidad: 15
+Salchicha, Cantidad: 15
+Salsa, Cantidad: 10
+BBQ, Cantidad: 15
+Mayonesa, Cantidad: 15
+Negra, Cantidad: 15
+Teriyaki, Cantidad: 15
+Tomate, Cantidad: 15
+Rosada, Cantidad: 15

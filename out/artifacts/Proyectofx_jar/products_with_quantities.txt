@@ -1,0 +1,112 @@
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 14
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 15
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 11
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 15
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Rey, Cantidad: 11
+Fabuloso, Cantidad: 15
+H&S, Cantidad: 15
+Polvo, Cantidad: 15
+Aromatel, Cantidad: 15
+Clorox, Cantidad: 13
+Clorox, Cantidad: 15
+Desengrasante, Cantidad: 15
+Desinfectante, Cantidad: 15
+Guantes, Cantidad: 15
+Tinner, Cantidad: 15
+Varsol, Cantidad: 15
+
+-----------------------------------------------------
+Alpinito, Cantidad: 15
+Avena, Cantidad: 15
+Bonyurt, Cantidad: 15
+Mini Bonyurt, Cantidad: 15
+Yogurt, Cantidad: 15
+Yox, Cantidad: 15
+Alpina, Cantidad: 15
+Alqueria, Cantidad: 15
+Colanta, Cantidad: 15
+Griego, Cantidad: 15
+Yogo yogo, Cantidad: 15
+Yox, Cantidad: 15
+
+-----------------------------------------------------
+Alpinito, Cantidad: 15
+Avena, Cantidad: 15
+Bonyurt, Cantidad: 15
+Mini Bonyurt, Cantidad: 15
+Yogurt, Cantidad: 15
+Yox, Cantidad: 15
+Alpina, Cantidad: 15
+Alqueria, Cantidad: 15
+Colanta, Cantidad: 13
+Griego, Cantidad: 15
+Yogo yogo, Cantidad: 15
+Yox, Cantidad: 15
+
+-----------------------------------------------------
+Aguila, Cantidad: 15
+Budweiser, Cantidad: 15
+Club, Cantidad: 15
+Coronita, Cantidad: 15
+Lider, Cantidad: 15
+Onix, Cantidad: 15
+Andina, Cantidad: 15
+Club, Cantidad: 15
+Costeña, Cantidad: 15
+Heineken, Cantidad: 15
+Poker, Cantidad: 15
+Tres Cordilleras, Cantidad: 15
